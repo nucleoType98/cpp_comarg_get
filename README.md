@@ -1,20 +1,10 @@
-## C++ Commander
+c++ command line argument blaster
 
-* What it is
-  
-This is an Easy, Fast and lightweight Command Line Argument Parser written for C++ programs.
+# CLA Parser
 
+### About Commander Blaster
 
-* What it does
-
-This program gets the command line arguments and stores each entry(if syntax approved) and stores them into an external container(vector).
-
-* How to use it
+> Get command line argument, this function only parses the arguments, it registers the main() entry point command arg list from the (char **argv) argument, then proceeds with the proper execution direction based on the entry value.
 
 
-You just need to populate the command line with the requried arguments, each argument will execute code based on the value.
-
-## Example
-
-
-$ ./main -persistent 
+### THIS PROGRAM DOES NOT SERVER ANY PURPOSE OUTSIDE THE SOCKET LIBRARY INTERSECTION
